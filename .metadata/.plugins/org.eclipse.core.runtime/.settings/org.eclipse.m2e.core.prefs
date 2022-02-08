@@ -1,0 +1,5 @@
+eclipse.m2.defaultRuntime=maven3.8.4
+eclipse.m2.runtimes=maven3.8.4
+eclipse.m2.runtimesNodes/maven3.8.4/location=/opt/homebrew/Cellar/maven/3.8.4/libexec
+eclipse.m2.runtimesNodes/maven3.8.4/type=EXTERNAL
+eclipse.preferences.version=1
